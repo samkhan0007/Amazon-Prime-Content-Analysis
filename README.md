@@ -8,7 +8,7 @@ insights about content distribution, genres, ratings, release trends,
 and regional contributions to help understand platform growth and
 audience targeting.
 
-"D:\Upgrade\Github\Screenshots\Amazon_Prime_Content_Analysis.png"
+<img width="1540" height="614" alt="Screenshot 2025-10-13 150707" src=""D:\Upgrade\Github\Screenshots\Amazon_Prime_Content_Analysis.png"" />
 
 ------------------------------------------------------------------------
 
