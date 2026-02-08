@@ -10,9 +10,7 @@ audience targeting.
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <img src="images/Amazon_Prime_Content_Analysis.png" width="800">
-</p>
+https://github.com/samkhan0007/Amazon-Prime-Content-Analysis/blob/main/Amazon_Prime_Content_Analysis.png
 
 ------------------------------------------------------------------------
 
