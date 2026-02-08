@@ -9,8 +9,8 @@ and regional contributions to help understand platform growth and
 audience targeting.
 
 ## 📊 Dashboard Preview
+<img width="1540" height="614" alt="Amazon_Prime_Content_Analysis" src="https://github.com/samkhan0007/Amazon-Prime-Content-Analysis/blob/main/Amazon_Prime_Content_Analysis.png" />
 
-https://github.com/samkhan0007/Amazon-Prime-Content-Analysis/blob/main/Amazon_Prime_Content_Analysis.png
 
 ------------------------------------------------------------------------
 
